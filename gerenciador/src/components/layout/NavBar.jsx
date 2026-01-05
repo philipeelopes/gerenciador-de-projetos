@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import Container from "./Container";
 
 import styles from './NavBar.module.css'
-import logo from '../img/original3.png'
+import logo from '../../assets/original3.png'
 
 
 

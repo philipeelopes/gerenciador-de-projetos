@@ -1,5 +1,5 @@
 import styles from './Home.module.css';
-import savign from '/fundo6.png';
+import savign from '../../assets/fundo6.png';
 import LinkButton from '../layout/LinkButton';
 
 

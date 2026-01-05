@@ -1,5 +1,5 @@
 import styles from './Loading.module.css'
-import loading from "../../components/img/Loading.svg";
+import loading from '../../assets/Loading.svg'
 
 
 
